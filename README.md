@@ -23,3 +23,6 @@ Build the project
 build app.py
 ```
 Interact with the webapp
+
+## Link to the demo ##
+  * https://admiring-leavitt-87df74.netlify.app/
